@@ -37,7 +37,7 @@ Zerocracy will then automatically convert their points into
 Ready to start?
 Fill out [this form][cfp] and we help you out.
 
-Study these materials for deeper understanding of our management philosophy:
+Study these materials to understand the origins of our management philosophy:
 
 * [Blog post][announcement] about Zerocracy, 2018
 * Speech at DevTernity about [XDSD], 2016: [48 minutes][devternity]
