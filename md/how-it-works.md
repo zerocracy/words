@@ -41,7 +41,7 @@ Study these materials for deeper understanding of our management philosophy:
 
 * [Blog post][announcement] about Zerocracy, 2018
 * Speech at DevTernity about [XDSD], 2016: [48 minutes][devternity]
-* Meetup at The Entrepreneurs's Club, on meeting-free management, 2016: [73 minutes][palo]
+* Meetup at The Entrepreneurs's Club, on meeting-free management, 2016: [73 minutes][TEC]
 
 [measure-or-not]: https://www.yegor256.com/2020/06/23/individual-performance-metrics.html
 [vitals]: https://www.eolang.org/zerocracy/objectionary-vitals.html
