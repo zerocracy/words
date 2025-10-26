@@ -37,13 +37,6 @@ Zerocracy will then automatically convert their points into
 Ready to start?
 Fill out [this form][cfp] and we help you out.
 
-Study these materials to understand the origins of our management philosophy:
-
-* [Blog post][announcement] about Zerocracy, 2018
-* Speech at DevTernity about [XDSD], 2016: [48 minutes][devternity]
-* Meetup at The Entrepreneurs's Club, on meeting-free management, 2016: [73 minutes][TEC]
-* Talk about results-oriented SE, 2014: [47 minutes][Lisette]
-
 [measure-or-not]: https://www.yegor256.com/2020/06/23/individual-performance-metrics.html
 [vitals]: https://www.eolang.org/zerocracy/objectionary-vitals.html
 [reward]: https://github.com/objectionary/eo/pull/3457#issuecomment-2455183697
@@ -56,8 +49,3 @@ Study these materials to understand the origins of our management philosophy:
 [fairly]: https://www.yegor256.com/2019/01/22/10x-paychecks.html
 [zerocrat]: https://www.yegor256.com/2018/03/21/zerocracy-announcement.html
 [score]: https://www.yegor256.com/2017/11/28/microtasking.html
-[devternity]: https://www.youtube.com/watch?v=7EytYc7K5JA
-[XDSD]: https://www.xdsd.org
-[announcement]: https://www.yegor256.com/2018/03/21/zerocracy-announcement.html
-[TEC]: https://www.youtube.com/watch?v=qRZYJGYdrwk
-[Lisette]: https://www.youtube.com/watch?v=TWBBZK_XRNU
