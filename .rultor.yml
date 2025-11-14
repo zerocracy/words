@@ -1,0 +1,17 @@
+# SPDX-FileCopyrightText: Copyright (c) 2025 Zerocracy
+# SPDX-License-Identifier: MIT
+---
+# yamllint disable rule:line-length
+release:
+  script: |-
+    f=''
+    [[ -z "$(git branch -r | grep 'origin/gh-pages')" ]] && f+='--orphan'
+    git checkout ${f} gh-pages
+    git rm -rf . || true
+    git checkout master -- md/*.md
+    git checkout master -- README.md
+    cp md/*.md .
+    rm -rf md
+    sha384sum *.md > checksums.txt
+    git add .
+    git commit --allow-empty -m "version set to ${tag}"
