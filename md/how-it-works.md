@@ -12,9 +12,13 @@ Zerocracy is non-intrusive: it doesn't tell programmers
 Instead, it **observes** their actions and informs them when
   they earn or lose points.
 Programmers can view their individual contribution statistics
-  in an HTML summary updated every few hours ([example][vitals]).
-They also receive notifications directly in their GitHub
-  issues ([example][reward]).
+  in an HTML summary updated every few hours:
+
+[![vitals](https://raw.githubusercontent.com/zerocracy/sales-deck/refs/heads/master/vitals.png)][vitals]
+
+They also receive notifications directly in their GitHub issues:
+
+[![comment](https://raw.githubusercontent.com/zerocracy/sales-deck/refs/heads/master/comment.png)][reward]
 
 As a manager, you can use the points earned by programmers
   to calculate their bonuses or even salaries.
