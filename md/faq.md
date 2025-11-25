@@ -53,12 +53,21 @@ Think of Zerocracy as [Uber] for programmers:
   the work moves forward only when you choose to invest,
   and you remain in full control of how much you spend.
 
+**How Does Zerocracy Ensure Task Quality?**
+<br/>
+From a quality-control perspective, Zerocracy projects rely on
+  the same proven practices used in any professional software project.
+We encourage teams to apply unit testing, style checks, static analysis,
+  fuzzing, mutation testing, and thorough manual code reviews.
+The key difference is frequency.
+Because all work is split into small [microtasks][microtasking],
+  code is reviewed, tested,
+  and integrated far more often than in traditional workflows.
+This rapid, continuous feedback loop results in higher overall quality,
+  fewer defects, and a healthier, more maintainable codebase.
+
 <!--
 **What Fees or Commissions Does Zerocracy Charge?**
-<br/>
-TBD...
-
-**How Does Zerocracy Ensure Task Quality?**
 <br/>
 TBD...
 
