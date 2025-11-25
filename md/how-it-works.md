@@ -39,7 +39,8 @@ Zerocracy will then automatically convert their points into
   **payments**—transferred directly from your account to theirs, with no commission.
 
 Ready to start?
-Fill out [this form][cfp] and we help you out.
+Fill out [this form][cfp] and we help from there.
+Still have questions? Read our [FAQ].
 
 [measure-or-not]: https://www.yegor256.com/2020/06/23/individual-performance-metrics.html
 [vitals]: https://www.eolang.org/zerocracy/objectionary-vitals.html
@@ -54,3 +55,4 @@ Fill out [this form][cfp] and we help you out.
 [zerocrat]: https://www.yegor256.com/2018/03/21/zerocracy-announcement.html
 [score]: https://www.yegor256.com/2017/11/28/microtasking.html
 [earn]: https://www.zerocracy.com/how-to-earn
+[FAQ]: https://www.zerocracy.com/faq
