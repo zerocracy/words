@@ -26,7 +26,18 @@ At the same time, this approach eliminates the inefficiencies of hourly
 
 **How Does Zerocracy Know How Much to Pay per Task?**
 <br/>
-TBD...
+We don't estimate the number of hours required for each task.
+Instead, Zerocracy operates on the [principle][PDD] that any task should be
+  small enough to complete in under an hour,
+  and we pay nearly the same amount for every task.
+If a task turns out to be larger, the developer
+  is encouraged to complete a minimal, meaningful slice of work
+  and leave the remaining pieces as TODO puzzles in the code.
+After the merge, our system [automatically][0pdd] scans the repository,
+  detects newly created puzzles, and converts them into
+  new separate [tasks][microtasking].
+
+This way, task size stays consistent, developers stay productive, and payments remain predictable and fair.
 
 **How Are Budgets Controlled on Zerocracy Projects?**
 <br/>
@@ -90,3 +101,5 @@ However, if you have a reasonably big team, we can create an integration
 [billing]: https://www.yegor256.com/2014/10/21/incremental-billing.html
 [cost]: https://www.yegor256.com/2019/03/28/cost-of-zerocrat.html
 [judges-action]: https://github.com/zerocracy/judges-action
+[PDD]: https://www.yegor256.com/2010/03/04/pdd.html
+[0pdd]: https://www.yegor256.com/2017/04/05/pdd-in-action.html
