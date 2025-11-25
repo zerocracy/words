@@ -82,7 +82,7 @@ Yes!
 **Does Zerocracy Have Access to the Source Code?**
 <br/>
 No, we don't.
-The [judges-action] plugin that you integrate into your GitHub repository
+The [judges-action] plugin that you integrate into your [GitHub] repository
   collects information about your issues and pull requests,
   but not your source code.
 You can check how the plugin works,
@@ -94,6 +94,7 @@ At the moment Zerocracy only works with GitHub-based projects.
 However, if you have a reasonably big team, we can create an integration
   between your task tracker and Zerocracy.
 
+[GitHub]: https://github.com
 [ChatGPT]: https://chatgpt.com
 [DeepSeek]: https://deepseek.com
 [Claude]: https://claude.ai
@@ -113,4 +114,3 @@ However, if you have a reasonably big team, we can create an integration
 [0pdd]: https://www.yegor256.com/2017/04/05/pdd-in-action.html
 [roles]: https://www.yegor256.com/2016/07/10/software-project-roles.html
 [Uber]: https://www.uber.com
-
