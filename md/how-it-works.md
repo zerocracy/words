@@ -10,7 +10,7 @@ Zerocracy does exactly that: it [measures][zerocrat] each person's contribution
 Zerocracy is non-intrusive: it doesn't tell programmers
   what to do, when, or how.
 Instead, it **observes** their actions and informs them when
-  they earn or lose points.
+  they [earn] or lose points.
 Programmers can view their individual contribution statistics
   in an HTML summary updated every few hours:
 
@@ -27,9 +27,9 @@ Even if you don't, the **gamification** alone will significantly
 
 Here's how it works:
 
-1. You create an [account][baza] and get a token.
-1. You create a new GitHub Actions [workflow][judges-action].
-1. The workflow publishes points earned by each programmer.
+1. You create an [account][baza] and get a token;
+1. You create a new GitHub Actions [workflow][judges-action];
+1. The workflow publishes points earned by each programmer;
 1. [Zerocrat][0crat] on GitHub informs programmers when they [score].
 
 By default, programmers only earn points through gamification.
@@ -53,3 +53,4 @@ Fill out [this form][cfp] and we help you out.
 [fairly]: https://www.yegor256.com/2019/01/22/10x-paychecks.html
 [zerocrat]: https://www.yegor256.com/2018/03/21/zerocracy-announcement.html
 [score]: https://www.yegor256.com/2017/11/28/microtasking.html
+[earn]: https://www.zerocracy.com/how-to-earn
