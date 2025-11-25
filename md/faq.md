@@ -39,7 +39,19 @@ This way, task size stays consistent, developers stay productive,
 
 **How Are Budgets Controlled on Zerocracy Projects?**
 <br/>
-TBD...
+We control budgets by monitoring the number
+  of completed [microtasks][microtasking],
+  the amount of technical debt captured as [puzzles][PDD],
+  and the size of the backlog.
+These metrics let us estimate how much development will [cost] over time.
+However, as a project [sponsor][roles],
+  you're not required to commit to any fixed budget upfront.
+You simply pay as you go:
+  money is spent [incrementally][billing] as developers
+  deliver functionality in [small][microtasking], [measurable] steps.
+Think of Zerocracy as [Uber] for programmers:
+  the work moves forward only when you choose to invest,
+  and you remain in full control of how much you spend.
 
 <!--
 **What Fees or Commissions Does Zerocracy Charge?**
@@ -85,7 +97,7 @@ However, if you have a reasonably big team, we can create an integration
 [ChatGPT]: https://chatgpt.com
 [DeepSeek]: https://deepseek.com
 [Claude]: https://claude.ai
-[Zerocracy]: https://www.zerocracy.com
+[Zerocracy]: https://www.yegor256.com/2018/03/21/zerocracy-announcement.html
 [Telegram chat]: https://t.me/zerocracy
 [microtasking]: https://www.yegor256.com/2017/11/28/microtasking.html
 [monetary rewards]: https://www.yegor256.com/2014/09/24/why-monetary-awards-dont-work.html
@@ -99,3 +111,6 @@ However, if you have a reasonably big team, we can create an integration
 [judges-action]: https://github.com/zerocracy/judges-action
 [PDD]: https://www.yegor256.com/2010/03/04/pdd.html
 [0pdd]: https://www.yegor256.com/2017/04/05/pdd-in-action.html
+[roles]: https://www.yegor256.com/2016/07/10/software-project-roles.html
+[Uber]: https://www.uber.com
+
