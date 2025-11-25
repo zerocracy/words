@@ -36,8 +36,8 @@ If a task turns out to be larger, the developer
 After the merge, our system [automatically][0pdd] scans the repository,
   detects newly created puzzles, and converts them into
   new separate [tasks][microtasking].
-
-This way, task size stays consistent, developers stay productive, and payments remain predictable and fair.
+This way, task size stays consistent, developers stay productive,
+  and payments remain predictable and fair.
 
 **How Are Budgets Controlled on Zerocracy Projects?**
 <br/>
