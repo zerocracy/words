@@ -23,29 +23,41 @@ By distributing the project budget based
 At the same time, this approach eliminates the inefficiencies of hourly
   billing and ultimately [reduces][billing] the overall project [cost].
 
-How Does Zerocracy Know How Much to Pay per Task?
+**How Does Zerocracy Know How Much to Pay per Task?**
+TBD...
 
-How Are Budgets Controlled on Zerocracy Projects?
+**How Are Budgets Controlled on Zerocracy Projects?**
+TBD...
 
-What Fees or Commissions Does Zerocracy Charge?
+**What Fees or Commissions Does Zerocracy Charge?**
+TBD...
 
 ## How the Work Gets Done
 
-How Does Zerocracy Ensure Task Quality?
+**How Does Zerocracy Ensure Task Quality?**
+TBD...
 
-How Does Zerocracy Track Work Progress?
+**How Does Zerocracy Track Work Progress?**
+TBD...
 
-What If a Task Takes Longer than Expected?
+**What If a Task Takes Longer than Expected?**
+TBD...
 
-How Does Zerocracy Pay for Not Coding Activities?
+**How Does Zerocracy Pay for Not Coding Activities?**
+TBD...
 
-Can I Bring My Existing Team to Zerocracy?
+**Can I Bring My Existing Team to Zerocracy?**
+Yes!
 
 ## Security, Access & Integrations
 
-Does Zerocracy Have Access to the Source Code?
+**Does Zerocracy Have Access to the Source Code?**
+TBD...
 
-Can Zerocracy Work with GitLab and JIRA?
+**Can Zerocracy Work with GitLab and JIRA?**
+At the moment Zerocracy only works with GitHub-based projects.
+However, if you have a reasonably big team, we can create an integration
+  between your task tracker and Zerocracy.
 
 [ChatGPT]: https://chatgpt.com
 [DeepSeek]: https://deepseek.com
