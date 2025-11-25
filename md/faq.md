@@ -83,10 +83,23 @@ TBD...
 <br/>
 TBD...
 
+-->
+
 **Can I Bring My Existing Team to Zerocracy?**
 <br/>
-Yes!
--->
+Absolutely.
+You can bring your existing development team to Zerocracy at any time.
+A simple way to start is by using Zerocracy for gamification and visibility.
+After integrating the [judges-action] plugin into your GitHub repository,
+  your team will begin receiving detailed productivity
+  and quality [metrics][measurable]—similar to these [statistics][vitals].
+If later you decide to expand your team with external freelancers,
+  you can simply fund your Zerocracy account and publish your project.
+Freelancers will apply by signing an NDA, and you can onboard
+  selected candidates after reviewing
+  their GitHub history and Zerocracy profiles.
+This lets you combine your internal team with vetted
+  external talent in a seamless, controlled way.
 
 **Does Zerocracy Have Access to the Source Code?**
 <br/>
@@ -123,3 +136,4 @@ However, if you have a reasonably big team, we can create an integration
 [0pdd]: https://www.yegor256.com/2017/04/05/pdd-in-action.html
 [roles]: https://www.yegor256.com/2016/07/10/software-project-roles.html
 [Uber]: https://www.uber.com
+[vitals]: https://www.eolang.org/zerocracy/objectionary-vitals.html
