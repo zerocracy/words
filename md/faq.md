@@ -10,8 +10,6 @@ You can simply ask your favorite AI assistant,
   and it will explain our business model in clear,
   simple terms tailored to your needs.
 
-## Core Understanding
-
 **Why Does Zerocracy Use Microtasking Instead of Hourly Billing?**
 <br/>
 We use [microtasking] because [monetary rewards] tied directly to tangible,
@@ -43,11 +41,10 @@ This way, task size stays consistent, developers stay productive,
 <br/>
 TBD...
 
+<!--
 **What Fees or Commissions Does Zerocracy Charge?**
 <br/>
 TBD...
-
-## How the Work Gets Done
 
 **How Does Zerocracy Ensure Task Quality?**
 <br/>
@@ -68,8 +65,7 @@ TBD...
 **Can I Bring My Existing Team to Zerocracy?**
 <br/>
 Yes!
-
-## Security, Access & Integrations
+-->
 
 **Does Zerocracy Have Access to the Source Code?**
 <br/>
