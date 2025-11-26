@@ -29,7 +29,8 @@ Instead, Zerocracy operates on the [principle][PDD] that any task should be
   small enough to complete in under an hour,
   and we pay nearly the same amount for every task.
 If a task turns out to be larger, the developer
-  is encouraged to complete a minimal, meaningful slice of work
+  is [encouraged][quality-vs-speed] to complete a minimal,
+  meaningful slice of work
   and leave the remaining pieces as TO-DO [puzzles][PDD] in the code.
 After the merge, our system [automatically][0pdd] scans the repository,
   detects newly created [puzzles][PDD], and converts them into
@@ -58,7 +59,7 @@ Think of Zerocracy as [Uber] for programmers:
 From a quality-control perspective, Zerocracy projects rely on
   the same proven practices used in any professional software project.
 We encourage teams to apply unit testing, style checks, static analysis,
-  fuzzing, mutation testing, and thorough manual code reviews.
+  fuzzing, mutation testing, and [thorough][4no] manual code reviews.
 The key difference is frequency.
 Because all work is split into small [microtasks][microtasking],
   code is reviewed, tested,
@@ -137,3 +138,5 @@ However, if you have a reasonably big team, we can create an integration
 [roles]: https://www.yegor256.com/2016/07/10/software-project-roles.html
 [Uber]: https://www.uber.com
 [vitals]: https://www.eolang.org/zerocracy/objectionary-vitals.html
+[4no]: https://www.yegor256.com/2015/02/09/serious-code-reviewer.html
+[quality-vs-speed]: https://www.yegor256.com/2018/03/06/speed-vs-quality.html
