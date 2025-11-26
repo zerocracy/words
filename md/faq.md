@@ -58,7 +58,7 @@ Think of Zerocracy as [Uber] for programmers:
 <br/>
 From a quality-control perspective, Zerocracy projects rely on
   the same proven practices used in any professional software project.
-We encourage teams to apply unit testing, style checks, static analysis,
+We encourage teams to apply unit testing, style checks, [static analysis],
   fuzzing, mutation testing, and [thorough][4no] manual code reviews.
 The key difference is [frequency][quality-vs-speed].
 Because all work is split into small [microtasks][microtasking],
@@ -141,3 +141,4 @@ However, if you have a reasonably big team, we can create an integration
 [4no]: https://www.yegor256.com/2015/02/09/serious-code-reviewer.html
 [quality-vs-speed]: https://www.yegor256.com/2018/03/06/speed-vs-quality.html
 [CI]: https://www.yegor256.com/2014/10/08/continuous-integration-is-dead.html
+[static analysis]: https://www.yegor256.com/2018/01/16/educational-aspect-of-static-analysis.html
