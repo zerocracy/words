@@ -65,7 +65,7 @@ Because all work is split into small [microtasks][microtasking],
   code is reviewed, tested,
   and integrated far [more often][CI] than in traditional workflows.
 This rapid, [continuous][4builds] feedback loop results
-  in higher overall quality,
+  in higher overall [quality],
   fewer defects, and a healthier, more maintainable codebase.
 
 <!--
@@ -144,3 +144,4 @@ However, if you have a reasonably big team, we can create an integration
 [CI]: https://www.yegor256.com/2014/10/08/continuous-integration-is-dead.html
 [static analysis]: https://www.yegor256.com/2018/01/16/educational-aspect-of-static-analysis.html
 [4builds]: https://www.yegor256.com/2025/04/12/four-builds.html
+[quality]: https://www.yegor256.com/2017/12/26/software-quality-formula.html
