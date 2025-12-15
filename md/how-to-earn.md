@@ -19,7 +19,7 @@ Once 1) your [pull request][pull requests] is **merged**,
   you [earn] a few points.
 Each point is equal to one US dollar, debited to your Zerocracy account.
 You can [withdraw] your funds at any time to
-  your [ERC-20][ERC-20] [USDT][USDT] address.
+  your [USDT][USDT] in [ERC-20][ERC-20] address.
 
 How many points you earn per contribution depends on several factors.
 Start working and you'll figure out for yourself which products pay
