@@ -5,7 +5,7 @@ the origins of our management philosophy:
 
 * [Blog post][announcement] about Zerocracy, 2018
 * Speech at DevTernity about [XDSD], 2016: [48 minutes][devternity]
-* Meetup at The Entrepreneurs's Club, 2016: [73 minutes][TEC]
+* Meetup at The Entrepreneurs' Club, 2016: [73 minutes][TEC]
 * Interview with our founder, 2014: [47 minutes][Lisette]
 
 [devternity]: https://www.youtube.com/watch?v=7EytYc7K5JA
