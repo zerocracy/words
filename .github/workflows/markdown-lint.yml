@@ -5,6 +5,8 @@
 name: markdown-lint
 'on':
   push:
+permissions:
+  contents: read
 jobs:
   markdown-lint:
     timeout-minutes: 15
